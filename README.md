@@ -1,14 +1,11 @@
 # Virtual-lab-
 Virtual Lab Simulator is a no-code, AI-powered web application that allows students to perform lab experiments digitally with real-time simulations, dynamic graphs, and visual representations. It bridges the gap between theoretical knowledge and practical learning—without requiring physical lab equipment.
-Features
+
+🚀 Features
 
 🔬 Interactive Physics & Chemistry experiments
 
 📊 Real-time graph visualization
-
-🤖 AI-powered lab assistant
-
-⚠️ Error detection with smart feedback
 
 🧾 Auto-generated lab reports
 
